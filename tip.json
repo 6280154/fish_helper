@@ -1,11 +1,11 @@
 {
   "alway": false,
-  "title": "提示",
-  "intro":"该版本由 azwhikaru 提供，请勿滥用、滥改",
+  "title": "猪手公告",
+  "intro":"当前版本随时可能停用，敬请关注酷安 @JackPan 的动态",
   "exit": false,
-  "show": true,
+  "show": false,
   "f": true,
-  "url": "",
+  "url": "http://www.coolapk.com/u/3454807",
   "time": 4,
   "v": 3
 }
