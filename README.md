@@ -15,7 +15,7 @@
 
 ## 使用方法
 #### 如果您是普通用户   
-- 在 [Releases](https://github.com/JackPan0519/fish_helper_config/releases) 页面下载最新版本
+- 下载模块最新版本
 - 安装，并在Xposed管理器中激活模块，作用域请勾选闲鱼App
 
 #### 如果您是开发者   
