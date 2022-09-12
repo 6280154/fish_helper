@@ -7,7 +7,11 @@
 - [azwhikaru/fish_helper_config](https://github.com/azwhikaru/fish_helper_config)   
 
 ## 适配版本
-- 7.1.30 ~ 7.6.70
+- 7.1.30 ~ 7.5.41
+- 7.6.70 ~ 7.6.90
+
+## 获取模块
+- [Releases](https://github.com/JackPan0519/fish_helper/releases)
 
 ## 使用方法
 #### 如果您是普通用户   
@@ -16,3 +20,6 @@
 
 #### 如果您是开发者   
 - 待补充
+
+## 交流反馈
+- [QQ Group](https://jq.qq.com/?_wv=1027&k=aqAyZbT7)
