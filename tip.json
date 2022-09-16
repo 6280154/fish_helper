@@ -1,7 +1,7 @@
 {
   "alway": false,
-  "title": "猪手公告",
-  "intro":"当前版本随时可能停用，敬请关注酷安 @JackPan 的动态",
+  "title": "公告标题",
+  "intro":"公告内容",
   "exit": false,
   "show": false,
   "f": true,
