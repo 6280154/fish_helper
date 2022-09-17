@@ -1,5 +1,5 @@
 {
-  "c": true,
+  "c": false,
   "alipays": "捐赠链接",
   "qqGroupKey": "跳转链接",
   "qqGroupTitle": "浮生",
@@ -22,7 +22,7 @@
     "time": 3
   },
   "beta": {
-    "c": true,
+    "c": false,
     "alipays": "捐赠链接",
     "qqGroupKey": "跳转链接",
     "qqGroupTitle": "浮生",
